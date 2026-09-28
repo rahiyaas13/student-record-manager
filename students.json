@@ -1,0 +1,26 @@
+[
+    {
+        "student_id": "STU1001",
+        "name": "Aarav Sharma",
+        "email": "aarav.sharma@example.edu",
+        "age": 20,
+        "course": "Computer Science",
+        "gpa": 3.88
+    },
+    {
+        "student_id": "STU1002",
+        "name": "Diya Patel",
+        "email": "diya.patel@techuniv.ac.in",
+        "age": 21,
+        "course": "Data Science",
+        "gpa": 3.92
+    },
+    {
+        "student_id": "STU1003",
+        "name": "Marcus Johnson",
+        "email": "m.johnson@college.org",
+        "age": 22,
+        "course": "Cybersecurity",
+        "gpa": 3.65
+    }
+]
